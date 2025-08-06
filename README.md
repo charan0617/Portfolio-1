@@ -1,55 +1,51 @@
-# 💼 Portfolio Website
+# 🚀 Personal Portfolio - Charan Kathirvel
 
-A personal **portfolio website** built using **React** to showcase my skills, projects, and contact information. Designed with a clean UI and smooth scrolling sections.
+Welcome to my **React-based Personal Portfolio** website! This project showcases my skills, projects, and contact information. It is fully responsive and built with HTML, CSS, JavaScript, and React.
+
+## 🌐 Live Demo
+
+👉 [Visit Live Portfolio](https://charan0617.github.io/Portfolio-1)
 
 ## 📁 Project Structure
-portfolio/
+
+portfolio-1/
 ├── public/
-│ └── index.html
+│ ├── index.html
+│ ├── style.css
 ├── src/
+│ ├── assets/
+│ │ └── [Images/icons used]
+│ ├── components/
+│ │ ├── Navbar/
+│ │ ├── Intro/
+│ │ ├── Skills/
+│ │ ├── Works/
+│ │ ├── Contact/
+│ │ └── Footer/
 │ ├── App.js
 │ ├── index.js
-│ ├── App.css
-│ ├── style.css
-│ └── content/
-│ ├── Navbar/
-│ ├── Skills/
-│ ├── Works/
-│ ├── Footer/
-│ ├── Contact/
-│ └── About/
+
 
 ## 🚀 Features
 
-- Responsive web design
-- Reusable components for better scalability
-- Clean and modern UI
-- Section-based layout: About, Skills, Projects, Contact
-- React functional components with hooks
+- Responsive and clean UI
+- Navigation bar with smooth scrolling
+- Intro section with "Hire Me" scroll-to-contact functionality
+- Skills and services display
+- Projects/Works showcase
+- Contact form
+- Footer with copyright
 
----
+## 🛠️ Built With
 
-## 🛠️ Tech Stack
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- React.js
+- Git & GitHub
 
-- **React.js**
-- **HTML5**
-- **CSS3**
-- **JavaScript (ES6+)**
+## 🖥️ Installation & Running Locally
 
----
-
-## 📦 Installation & Setup
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
-
-# Navigate into the project directory
-cd your-repo-name
-
-# Install dependencies
-npm install
-
-
-# Start the development server
-npm start
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/charan0617/Portfolio-1.git
